@@ -19,8 +19,8 @@ from playwright.async_api import async_playwright
 # ──────────────────────────────────────────────
 # НАСТРОЙКИ
 # ──────────────────────────────────────────────
-TELEGRAM_BOT_TOKEN = "8650471854:AAG6_uwvDZT3I5-4OuzjSzAQMCfBp7yUvcA"
-TELEGRAM_CHAT_IDS  = ["435596941"]
+TELEGRAM_BOT_TOKEN = ""
+TELEGRAM_CHAT_IDS  = [""]
 TEMPLATE_PATH      = "Dono_мониторинг.xlsx"
 OUTPUT_DIR         = "reports_dono"
 HEADLESS           = True  # False — показывать браузер при отладке
